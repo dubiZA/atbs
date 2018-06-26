@@ -1,5 +1,5 @@
 #! /usr/bin/env python3
-# pw.py - An insecure password manager program
+# pw.py - An insecure password inventory. Consider expanding the functionality.
 
 
 PASSWORDS = {'email': 'F7minlBDDuvMJuxESSKHFhTxFtjVB6',
@@ -22,3 +22,4 @@ if account in PASSWORDS:
     print('Password for ' + account + ' copied to clipboard.')
 else:
     print('There is no account named ' + account)
+
