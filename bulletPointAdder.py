@@ -1,5 +1,5 @@
 #! /usr/bin/env python3
-# bulletPointAdder.py - Adds Wikipedia markup bullets to the beginning of each list item
+# bulletPointAdder.py - Adds Wikipedia markup bullets to the beginning of each list item.
 
 
 import pyperclip
